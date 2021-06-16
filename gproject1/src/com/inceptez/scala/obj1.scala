@@ -3,6 +3,6 @@ package com.inceptez.scala
 object obj1 {
   def main(args:Array[String]){
     
-  println("hello scala")
+  println("hello world")
   }
 }
